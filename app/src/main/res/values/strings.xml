@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">JetpackComposeBirthdayApp</string>
+    <string name="top_app_bar_title">BirthdayApp</string>
+    <string name="top_app_bar_title_setting">Setting</string>
+    <string name="date_picker_undefined">undefined</string>
+    <string name="one_week">one week</string>
+    <string name="one_day">one day before</string>
+    <string name="events_day">event\'s day</string>
+    <string name="enter_name">Enter the name of the birthday person</string>
+    <string name="remainder_notification">Please set at least one reminder time</string>
+    <string name="please_remind_me">Please remind me...</string>
+    <string name="pls_enter_name">Please enter a name</string>
+    <string name="save">SAVE</string>
+    <string name="name_error">The name must contain at least three letters</string>
+    <string name="error_reminder">At least one reminder must be selected</string>
+    <string name="delete">DELETE</string>
+    <string name="cancel">CANCEL</string>
+</resources>
